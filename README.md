@@ -193,14 +193,24 @@ Run Project (F6)
 
 ## Screenshots
 
-### Login Page
+### Login Page/Sign Up Page
 ![Login](screenshots/login.png)
+![Sign Up](screenshots/signup.png)
 
 ### Destination Selection
 ![Destination](screenshots/destination.png)
 
 ### Seat Booking
-![Booking](screenshots/booking.png)
+![Booking(1)](screenshots/booking.png)
+![Booking(2)](screenshots/booking1.png)
+
+### Bill
+![Bill(1)](screenshots/bill.png)
+![Bill(2)](screenshots/bill1.png)
+![Bill(3)](screenshots/bill2.png)
+
+### Confirmation
+![Confirm](screenshots/confirm.png)
 
 ### Profile Page
 ![Profile](screenshots/profile.png)
@@ -209,10 +219,10 @@ Run Project (F6)
 
 ## Developers
 
-- 32230002
-- 32230009
-- 32230033
-- 32230038
+- Reynaldi
+- Richard Stefano
+- Harlan Luthi Permana
+- Denis Wilbert
 
 ---
 
