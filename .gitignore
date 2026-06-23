@@ -1,0 +1,28 @@
+# NetBeans private files
+nbproject/private/
+
+# Build folders
+build/
+dist/
+
+# Generated files
+*.class
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+
+# IDE files (jika suatu saat buka di IDE lain)
+.idea/
+.vscode/
+
+# Jangan upload file lock Microsoft Office
+~$*.docx
+~$*.xlsx
+~$*.pptx

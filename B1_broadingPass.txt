@@ -1,0 +1,8 @@
+AIRLINES AIRLINES BOARDING PASS
+
+Seat :  B1
+Name :  Reynaldi Aldi
+Passport No. :  1231321321
+
+Please remember your data for flight cancellation. 
+© 2024 Nine Airlines.
